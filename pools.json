@@ -487,7 +487,11 @@
         "/PureBTC.COM/" : {
             "name": "PureBTC.COM",
             "link": "https://purebtc.com"
-        }
+        },
+ 	"Titan": {
+            "name": "Titan",
+            "link": "https://pool.titan.io"
+        },
     },
     "payout_addresses" : {
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
@@ -877,6 +881,10 @@
         "11wC5KcbgrWRBb43cwADdVrxgyF8mndVC":{
             "name":"MiningCity",
             "link":"https://www.miningcity.com/"
-        }
+        },
+	"14hLEtxozmmih6Gg5xrGZLfx51bEMj21NW" : {
+            "name" : "Titan",
+            "link" : "http://pool.titan.io"
+        },
     }
 }
